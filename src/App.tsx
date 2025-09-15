@@ -1,5 +1,4 @@
 
-import React from 'react';
 import GpaCalculator from './components/Subject';
 import './App.css';
 
